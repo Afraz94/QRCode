@@ -13,7 +13,8 @@
   }
   
   .card{
-    height: 475px;
+    margin-top: 6px;  
+    height: 480px;
     width: 300px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 5%;
