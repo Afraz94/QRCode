@@ -30,7 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML5
 - CSS
 - Flexbox
-- 
+
 ### What I learned
 
 Learnt to use viewports as a means of laying down size measurements of various divs.
